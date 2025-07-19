@@ -1,6 +1,7 @@
 # chatbot.py
 
 # Import necessary libraries
+
 import nltk                      # Natural Language Toolkit for NLP tasks
 import re                        # Regular expression module for pattern matching
 import random                    # For selecting random responses
